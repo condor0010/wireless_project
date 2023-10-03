@@ -54,3 +54,8 @@ Press the learning button 6 times, the indicator will flash 6 times and enter th
 Delay 20S:
 Press the learning button 7 times, the indicator will flash 7 times and enter the learning state, and then press the remote control button, the indicator will flash 3 times and the learning code is completed.
 ```
+
+
+[amazon listing](https://www.amazon.com/dp/B0BZR51KKD?psc=1&ref=ppx_yo2ov_dt_b_product_details)
+
+
